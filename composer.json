@@ -12,7 +12,7 @@
   "minimum-stability": "stable",
   "require": {
     "php": "^7.3.0",
-    "illuminate/support": "^8.0",
+    "illuminate/support": "*",
     "league/oauth2-client": "^2.0",
     "microsoft/microsoft-graph": "^1.0"
   },
